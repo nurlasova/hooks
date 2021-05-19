@@ -1,0 +1,16 @@
+.container{
+    width: 500px;
+    margin: 200px auto;
+}
+.title{
+    text-align: center;
+    color: crimson;
+}
+.button{
+    background-color: red;
+    padding: 20px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    margin-right: 20px;
+}
